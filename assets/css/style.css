@@ -87,7 +87,7 @@ body{
 
 /*social icon hover */
 .header-top-social-icon ul li a:hover{
-    color:#65cef5;
+    color:#65cef5 ;
 }
 
 .header-top-social-icon ul li {
@@ -107,13 +107,13 @@ body{
 
 .header-info ul li a i {
     font-size: 14px;
-    color: #65cef5;
+    color: #65cef5 ;
     margin-right: 11px;
 }
 
 .header-info ul li i {
     font-size: 14px;
-    color: #65cef5;
+    color: #65cef5 ;
     margin-right: 10px;
     padding-left: 30px;
 }
@@ -148,7 +148,7 @@ body{
 
 .top-address-icon span i {
     font-size: 14px;
-    color: #65cef5;
+    color: #65cef5 ;
     margin-right: 10px;
 }
 
@@ -270,7 +270,7 @@ nav.purify_menu span:hover {
 }
 
 .purify_menu>ul>li>a:hover {
-    color: #65cef5;
+    color: #65cef5 ;
 }
 
 /*menu button*/
@@ -305,12 +305,12 @@ nav.purify_menu span:hover {
 }
 
 .header-button a i:hover{
-    background-color: #65cef5;
+    background-color: #65cef5 ;
 }
 
 .header-main-button a {
     display: inline-block;
-    background-color: #65cef5;
+    background-color: #65cef5 ;
     padding: 11px 40px;
     border-radius: 25px;
     font-size: 16px;
@@ -357,7 +357,7 @@ nav.purify_menu span:hover {
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
     transition: .5s;
     visibility: hidden;
-    border-top: 2px solid #65cef5;
+    border-top: 2px solid #65cef5 ;
     opacity: 0;
 }
 
@@ -390,7 +390,7 @@ nav.purify_menu span:hover {
 .purify_menu ul .sub-menu .sub-menu li:hover>a,
 .purify_menu ul .sub-menu .sub-menu .sub-menu li:hover>a,
 .purify_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover>a {
-    background: #65cef5;
+    background: #65cef5 ;
     color: #fff !important;
 }
 
@@ -432,7 +432,7 @@ nav.purify_menu span:hover {
 }
 
 ul.sub-menu li a span {
-    background: #65cef5;
+    background: #65cef5 ;
     padding: 5px 10px;
     color: #fff;
     opacity: 1;
@@ -504,7 +504,7 @@ ul.sub-menu li:hover a span{
 <!-- ============================================================== -->*/
 
 .hero-section {
-    background: url(../images/slider/hero-bg.jpg);
+    background: url(../images/slider/hero-header.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -519,7 +519,7 @@ ul.sub-menu li:hover a span{
 
 .hero-sub-title h5 {
     font-size: 18px;
-    color: #65cef5;
+    color: #65cef5 ;
     font-weight: 500;
     margin-bottom: 21px;
 }
@@ -551,15 +551,15 @@ ul.sub-menu li:hover a span{
     color: #ffffff;
     font-weight: 600;
     text-align: center;
-    background-color: #65cef5;
+    background-color: #65cef5 ;
     border-radius: 25px;
-    border: 1px solid #65cef5;
+    border: 1px solid #65cef5 ;
     transition: 0.5s;
 }
 
 .hero-main-button a:hover{
     background-color: transparent;
-    border:1px solid #65cef5;
+    border:1px solid #65cef5 ;
 }
 
 .hero-right-button {
@@ -573,13 +573,13 @@ ul.sub-menu li:hover a span{
     color: #ffffff;
     font-weight: 600;
     text-align: center;
-    border: 1px solid #65cef5;
+    border: 1px solid #65cef5 ;
     border-radius: 25px;
     transition: 0.5s;
 }
 
 .hero-right-button a:hover {
-    background: #65cef5;
+    background: #65cef5 ;
 }
 
 .hero-thumb {
@@ -619,7 +619,7 @@ ul.sub-menu li:hover a span{
 
 .purify-section-title h2 {
     font-size: 18px;
-    color: #65cef5;
+    color: #65cef5 ;
     font-weight: 500;
 }
 
@@ -690,7 +690,7 @@ ul.sub-menu li:hover a span{
 
 .service-box-button a {
     font-size: 16px;
-    color: #65cef5;
+    color: #65cef5 ;
     font-weight: 600;
 }
 
@@ -749,14 +749,14 @@ ul.sub-menu li:hover a span{
 
 .about-items p i {
     display: inline-block;
-    color: #65cef5;
+    color: #65cef5 ;
     padding-right: 10px;
     font-size: 21px;
 }
 
 .about-button a {
     display: inline-block;
-    background-color: #65cef5;
+    background-color: #65cef5 ;
     padding: 12px 42px;
     border-radius: 25px;
     font-size: 16px;
@@ -958,13 +958,13 @@ ul.sub-menu li:hover a span{
     font-size: 16px;
     line-height: 26px;
     font-weight: 600;
-    background: #65cef5;
+    background: #65cef5 ;
     padding: 13px 42px;
     border-radius: 25px;
     position: relative;
     z-index: 1;
     margin-top: 17px;
-    border: 1px solid #65cef5;
+    border: 1px solid #65cef5 ;
 }
 
 .form-button a{
@@ -1022,7 +1022,7 @@ ul.sub-menu li:hover a span{
     position: relative;
     z-index: 1;
     font-size: 16px;
-    color: #65cef5;
+    color: #65cef5 ;
     font-weight: 500;
     padding: 14px 140px;
     border: 1px solid #d9d9d9;
@@ -1033,7 +1033,7 @@ ul.sub-menu li:hover a span{
     content: "";
     width: 100%;
     height: 100%;
-    background: #65cef5;
+    background: #65cef5 ;
     top: 0;
     left: 0;
     right: 0;
@@ -1048,7 +1048,7 @@ transform: scale(1);
 }
 
 .Our-product-btn a {
-    color:#65cef5;
+    color:#65cef5 ;
     transition: 0.5s;
 }
 .Our-product-btn:hover a{
@@ -1071,7 +1071,7 @@ transform: scale(1);
 }
 
 .product-review-icon i {
-    color: #65cef5;
+    color: #65cef5 ;
     letter-spacing: 7px;
 }
 
@@ -1090,7 +1090,7 @@ transform: scale(1);
     font-size: 16px;
     line-height: 26px;
     font-weight: 600;
-    background: #65cef5;
+    background: #65cef5 ;
     padding: 12px 32px;
     border-radius: 25px;
     position: relative;
@@ -1192,7 +1192,7 @@ transform: scale(1);
     width: 55px;
     height: 55px;
     line-height: 55px;
-    background: #65cef5;
+    background: #65cef5 ;
     display: inline-block;
     text-align: center;
     border-radius: 100%;
@@ -1204,7 +1204,7 @@ transform: scale(1);
 
 .owl-prev:hover {
     background-color: white;
-    color: #65cef5;
+    color: #65cef5 ;
     border: 1px solid rgba(129,129,129,0.4);
 }
 
@@ -1212,7 +1212,7 @@ transform: scale(1);
     width: 55px;
     height: 55px;
     line-height: 55px;
-    background: #65cef5;
+    background: #65cef5 ;
     display: inline-block;
     text-align: center;
     border-radius: 100%;
@@ -1224,7 +1224,7 @@ transform: scale(1);
 
 .owl-next:hover{
     background-color: white;
-    color: #65cef5;
+    color: #65cef5 ;
     border: 1px solid rgba(129,129,129,0.4);
     }
 
@@ -1740,8 +1740,8 @@ height: 100%;
 
 .pagination-menu ul li a:hover{
     color:#fff;
-    border: 1px solid #65cef5;
-    background-color: #65cef5;
+    border: 1px solid #65cef5 ;
+    background-color: #65cef5 ;
 }
 
 .blogs-section .blog-content {
@@ -2306,7 +2306,7 @@ ul.social-share li a:hover {
     display: inline-block;
     text-align: left;
     margin-right: 12px;
-    color: #65cef5;
+    color: #65cef5 ;
 }
 
 .purify-section-title h5 {
@@ -2338,7 +2338,7 @@ ul.social-share li a:hover {
 }
 
 .team-social ul li a:hover i {
-    color: #65cef5;
+    color: #65cef5 ;
 }
 
 .single-team:hover .team-title{
@@ -2566,7 +2566,7 @@ ul.social-share li a:hover {
     border-radius: 50%;
     transition: all 1s 1s ease;
     border: 3px solid transparent;
-    border-top-color: #65cef5;
+    border-top-color: #65cef5 ;
     -webkit-animation: spin 1.5s linear infinite;
     -moz-animation: spin 1.5s linear infinite;
     -o-animation: spin 1.5s linear infinite;
@@ -2732,7 +2732,7 @@ ul.social-share li a:hover {
     text-align: center;
     line-height: 46px;
     font-size: 18px;
-    color: #65cef5;
+    color: #65cef5 ;
     left: 0;
     top: 0;
     height: 46px;
@@ -2779,7 +2779,7 @@ ul.social-share li a:hover {
 }
 
 .prgoress_indicator svg.progress-circle path {
-    stroke: #65cef5;
+    stroke: #65cef5 ;
     stroke-width: 4;
     box-sizing: border-box;
     transition: all 200ms linear !important;
@@ -2830,7 +2830,7 @@ ul.social-share li a:hover {
     margin-top: -200px;
     border-radius: 50%;
     text-align: center;
-    background:#65cef5; 
+    background:#65cef5 ; 
     width: 70px;
     cursor: pointer;
     box-shadow: 0 0 10px rgba(0,0,0,0.05);
@@ -2974,7 +2974,7 @@ ul.social-share li a:hover {
 .search-box-btn.search-box-outer i {
     font-size: 15px;
     cursor: pointer;
-    background-color: #65cef5;
+    background-color: #65cef5 ;
     width: 40px;
     height: 40px;
     line-height: 40px;

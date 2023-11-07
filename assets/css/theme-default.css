@@ -159,19 +159,19 @@ ul {
 
 
 input:focus, button:focus {
-    outline-color: #65cef5;
-    border: 1px solid #65cef5 !important;
+    outline-color: #65cef5 ;
+    border: 1px solid #65cef5  !important;
 }
 
 textarea:focus {
-    border: 1px solid #65cef5 !important;
-    outline-color: #65cef5
+    border: 1px solid #65cef5  !important;
+    outline-color: #65cef5 
 }
 
 select:focus {
-    border-color: #65cef5;
-    outline-color: #65cef5;
-    border: 1px solid #65cef5;
+    border-color: #65cef5 ;
+    outline-color: #65cef5 ;
+    border: 1px solid #65cef5 ;
 }
 
 hr {
