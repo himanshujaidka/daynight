@@ -31,6 +31,8 @@
 	<link rel="stylesheet" href="venobox/venobox.css" type="text/css" media="all">
 	<!-- bootstrap icons -->
 	<link rel="stylesheet" href="assets/css/bootstrap-icons.css" type="text/css" media="all">
+	<!-- navbar CSS -->
+	<link rel="stylesheet" href="assets/css/navbar.css" type="text/css" media="all">
 	<!-- Main Style CSS -->
 	<link rel="stylesheet" href="assets/css/style.css" type="text/css" media="all">  
 	<!-- responsive CSS -->
@@ -38,6 +40,7 @@
 	<!-- modernizr js -->
 	<script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
 	<link href="https://fonts.cdnfonts.com/css/clash-display" rel="stylesheet">
+	<script src="https://kit.fontawesome.com/13c972fb56.js" crossorigin="anonymous"></script>
                 
                 
 </head>
@@ -55,7 +58,85 @@
 	<!--==================================================-->
 	<!-- Start purify Header Top Area -->
 	<!--==================================================-->
-	<div class="header-top-area">
+
+
+
+	<div class="rd-navbar-wrap">
+		<nav class="rd-navbar rd-navbar-minimal" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-xxl-layout="rd-navbar-static" data-xxl-device-layout="rd-navbar-static" data-lg-stick-up-offset="46px" data-xl-stick-up-offset="46px" data-xxl-stick-up-offset="46px" data-lg-stick-up="false" data-xl-stick-up="false" data-xxl-stick-up="false">
+		  <div class="rd-navbar-main-outer">
+			<div class="rd-navbar-main">
+			  <!-- RD Navbar Panel-->
+			  <div class="rd-navbar-panel">
+				<!-- RD Navbar Toggle-->
+				<button class="rd-navbar-toggle" data-rd-navbar-toggle="#rd-navbar-nav-wrap-1"><span></span></button>
+				<!-- RD Navbar Brand--><a class="rd-navbar-brand" href="index.html"><img src="assets/images/header-logo.png" alt="" srcset="assets/images/header-logo.png"/></a>
+			  </div>
+			  <div class="rd-navbar-main-element">
+				<div class="rd-navbar-nav-wrap" id="rd-navbar-nav-wrap-1">
+				  <!-- RD Navbar Nav-->
+				  <ul class="rd-navbar-nav">
+					<li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Home</a>
+					</li>
+					<li class="rd-nav-item"><a class="rd-nav-link" href="about.html">About</a>
+					</li>
+					<li class="rd-nav-item"><a class="rd-nav-link" href="about.html">Service</a>
+					</li>
+					<!-- <li class="rd-nav-item">Pages<i class="fas fa-chevron-down"></i></a> -->
+					  <!-- RD Navbar Megamenu-->
+					  <!-- <ul class="rd-menu rd-navbar-megamenu">
+						<li class="rd-megamenu-item">
+						  <ul class="rd-megamenu-list">
+							<li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="careers.html">Careers</a></li>
+							<li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="search-results.html">Search results</a></li>
+							<li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="about-us.html">About Us</a></li>
+							<li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="testimonials.html">Testimonials</a></li>
+							<li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="what-we-offer.html">What We Offer</a></li>
+							<li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="team.html">Team</a></li>
+						  </ul>
+						</li>
+						<li class="rd-megamenu-item">
+						  <ul class="rd-megamenu-list">
+							<li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404-page.html">404 Page</a></li>
+							<li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="503-page.html">503 Page</a></li>
+							<li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="coming-soon.html">Coming Soon</a></li>
+							<li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="under-construction.html">Under Construction</a></li>
+							<li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="progress-bars.html">Progress bars</a></li>
+							<li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="pricing.html">Pricing</a></li>
+						  </ul>
+						</li>
+						<li class="rd-megamenu-item">
+						  <ul class="rd-megamenu-list">
+							<li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="typography.html">Typography</a></li>
+							<li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="buttons.html">Buttons</a></li>
+							<li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="forms.html">Forms</a></li>
+							<li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tabs.html">Tabs</a></li>
+							<li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="terms-of-use.html">Terms of Use</a></li>
+							<li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="accordions.html">Accordions</a></li>
+						  </ul>
+						</li>
+					  </ul> -->
+					<!-- </li> -->
+					<!-- <li class="rd-nav-item"><a class="rd-nav-link" href="blog.html">Blog</a> -->
+					  <!-- RD Navbar Dropdown-->
+					  <!-- <ul class="rd-menu rd-navbar-dropdown">
+						<li class="rd-dropdown-item"><a class="rd-dropdown-link" href="single-blog-post.html">Single Blog Post</a></li>
+					  </ul>
+					</li> -->
+					<li class="rd-nav-item"><a class="rd-nav-link" href="contact.html">Contact</a>
+					</li>
+				  </ul>
+				</div>
+				<!-- Callback link-->
+				<!-- <div class="rd-navbar-call">
+				  <button class="icon icon-md mdi mdi-phone" data-toggle="modal" data-target="#call-form"></button>
+				 <i class="fa-solid fa-phone"></i>
+				</div> -->
+			  </div>
+			</div>
+		  </div>
+		</nav>
+	  </div>
+	<!-- <div class="header-top-area">
 		<div class="container-fluid">
 			<div class="row align-items-center">
 				<div class="col-lg-2 pl-0 pr-0">
@@ -90,7 +171,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<!--==================================================-->
 	<!-- End purify Header Top Area -->
 	<!--==================================================-->
@@ -100,7 +181,7 @@
 	<!--==================================================-->
 	<!-- Start purify Main Menu  -->
 	<!--==================================================-->
-	<div id="sticky-header" class="purify_nav_manu">
+	<!-- <div id="sticky-header" class="purify_nav_manu">
 		<div class="container-fluid">
 			<div class="row align-items-center">
 				<div class="col-lg-2 pl-0 pr-0">
@@ -157,7 +238,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 
 	<!-- purify Mobile Menu  -->
 	<div class="mobile-menu-area sticky d-sm-block d-md-block d-lg-none ">
@@ -324,9 +405,7 @@
 							<a href="index.html"><img src="assets/images/resource/logo-white-testong.png" alt="logo"></a>
 						</div>
 						<div class="footer-widget-text">
-							<p>There are many variations of passages of 
-								Lorem Ipsum available, but the majorityd
-								ave suffered alteration .</p>
+							<p><p>Day Night Drinking water! It's essential for human survival, and thank best life you must fully most of us have easy access to it.</p></p>
 						</div>
 						<div class="footer-title">
 							<h6>Open Hour:</h6>
@@ -342,9 +421,9 @@
 						</div>
 						<div class="widget-recent-info">
 							<ul>
-								<li><a href="contact.html"><i class="bi bi-geo-alt-fill"></i>Room20,Reynolds Neck,New York FF778WS</a></li>
-								<li><a href="contact.html"><i class="bi bi-telephone-fill"></i>Call Us:555-444-0001</a></li>
-								<li><a href="contact.html"><i class="bi bi-inbox-fill"></i>info@gmail.com</a></li>
+								<li><a href="contact.html"><i class="fa-solid fa-earth-americas"></i>Room20,Reynolds Neck,New York FF778WS</a></li>
+							<li><a href="contact.html"><i class="fa-solid fa-phone"></i>Call Us:555-444-0001</a></li>
+							<li><a href="contact.html"><i class="fa-solid fa-envelope"></i>info@gmail.com</a></li>s
 							</ul>
 						</div>
 					</div>
@@ -389,7 +468,7 @@
 				</div>
 				<div class="col-lg-6 col-md-6">
 					<div class="coppy-right-text">
-						<p>Terms&Conditions_Privency Polycy_Sitemap</p>
+						<p>Designed and Developed by <a href="https://devmanpvtltd.co" target="_blank" style="color: antiquewhite;">DevMan Pvt.Ltd.</a></p>
 					</div>
 				</div>
 			</div>
@@ -470,6 +549,10 @@
 	<script src="assets/js/jquery.barfiller.js"></script>
 
 	<script src="assets/js/theme.js"></script>
+
+	<script src="assets/js/core.min.js"></script>
+
+    <script src="assets/js/navbar.js"></script>
 
 </body>
 
