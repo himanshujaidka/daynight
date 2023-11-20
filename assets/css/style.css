@@ -519,7 +519,7 @@ ul.sub-menu li:hover a span{
 
 .hero-sub-title h5 {
     font-size: 18px;
-    color: #65cef5 ;
+    color: #ffff ;
     font-weight: 500;
     margin-bottom: 21px;
 }
@@ -527,13 +527,13 @@ ul.sub-menu li:hover a span{
 .hero-title h1 {
     font-size: 60px;
     line-height: 65px;
-    color: #ffffff;
+    color: #ffff ;
     font-weight: 700;
 }
 
 .hero-text p {
     font-size: 16px;
-    color: #ffffff;
+    color: #ffff;
     font-weight: 400;
     width: 92%;
     padding: 16px 0 40px;
